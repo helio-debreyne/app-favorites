@@ -1,0 +1,38 @@
+body{
+	background-color:red;
+}
+
+.titre {
+	display:flex;
+	justify-content:center;
+	margin-left:38%;
+	font-family:Segoe UI;
+	color:white;
+	font-weight:bold;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+	font-size:20px;
+	border:2px solid black;
+    border-width:5px;	
+	width:300px;
+	border-radius:30px;
+	background:linear-gradient(purple, red, orange);
+}
+
+img {
+	width:100x;
+    height:100px;
+	margin-top:-300;
+	box-shadow: 1px 1px 12px #555;
+	border-radius:50px;
+	margin-left:px;
+	background:linear-gradient(purple, red, orange);
+}
+
+.texte {
+	font-family:Segoe UI;
+	background:linear-gradient(purple, red, orange);
+	color:white;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+	border:2px solid black;
+}
+

@@ -1,0 +1,20 @@
+body {
+	background:green;
+	font-family:Fantasy;
+}
+
+img {
+	width:100x;
+    height:100px;
+	margin-top:-300;
+	box-shadow: 1px 1px 12px #555;
+	border-radius:50px;
+	margin-left:px;
+}
+
+.titre {
+    font-family:;
+	color:white;
+	text-align: center;
+	text-shadow:0.1em 0.1em 0.2em black;
+}
